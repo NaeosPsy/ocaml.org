@@ -41,6 +41,7 @@ let privacy_policy = "/policies/privacy-policy"
 let governance = "/policies/governance"
 let code_of_conduct = "/policies/code-of-conduct"
 let playground = "/play"
+let governance_team v = "/governance/" ^ v
 let papers = "/papers"
 let learn = "/docs"
 let platform = "/docs/platform"
